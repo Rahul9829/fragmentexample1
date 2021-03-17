@@ -28,6 +28,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="my_rating">My Rating :</string>
+    <string name="Open">OPEN</string>
+    <string name="Next">Next</string>
 
 
 </resources>
