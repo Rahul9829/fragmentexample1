@@ -1,3 +1,4 @@
-![task2](t2.png)
-![task2](t22.png)
-![GIF](frag.gif)
+![homework](hm1.png)
+![homework](hm2.png)
+![homework](hm3.png)
+![GIF](hm.gif)
